@@ -1,0 +1,4 @@
+#+TITLE:Template
+#+HTML_HEAD: <div>w3-include-html="site_gen/header.html"</div>
+
+Text Goes Here.
