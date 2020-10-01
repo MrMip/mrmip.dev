@@ -1,0 +1,13 @@
+#+TITLE:Contacts
+#+SETUPFILE: setupfile
+
+
+*** Email
+Miphamster@protonmail.com.
+
+*** Matrix
+@mip:matrix.org
+
+*** GPG key
+Key: https://keys.openpgp.org/vks/v1/by-fingerprint/A3A3D475FEF95771DAFEC6D1BB749FAFD066ADAF
+Fingerprint:  A3A3 D475 FEF9 5771 DAFE C6D1 BB74 9FAF D066 ADAF
