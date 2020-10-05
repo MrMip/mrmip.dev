@@ -3,3 +3,7 @@
 
 *** My dotfiles 
 https://github.com/MrMip/dotfiles
+
+*** Qutefox 
+Just some Firefox CSS and a couple of add-ons to make Firefox a little more like Qutebrowser for when you need a more bolted browser to do something.
+https://github.com/MrMip/Qutefox
