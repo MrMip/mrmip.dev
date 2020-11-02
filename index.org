@@ -1,4 +1,3 @@
-#+TITLE:Template
 #+SETUPFILE: setupfile
 
-Text Goes Here.
+A boring guy with a boring website whats new. At least it looks good in lynx!
