@@ -4,9 +4,9 @@
 *** My dotfiles 
 https://github.com/MrMip/dotfiles
 **** Suckless forks
-DWM:  https://github.com/MrMip/dwm
-DMENU:https://github.com/MrMip/dmenu
-
++ dwm:  https://github.com/MrMip/dwm
++ dmenu:https://github.com/MrMip/dmenu
++ st: https://github.com/MrMip/st
 *** dotDrop
 A quick wip dotfile deployment script. 
 https://github.com/MrMip/dotDrop
@@ -16,4 +16,4 @@ Just some Firefox CSS and a couple of add-ons to make Firefox a little more like
 https://github.com/MrMip/Qutefox
 
 *** /Hack The Mainframe/
-/Hack The Mainframe/ is a children's book I wrote. It's not the best but I think it's okay. :) [[file:Hack_The_Mainframe.pdf][pdf]]
+/Hack The Mainframe/ is a children's book I wrote. It's not the best but I think it's okay. :) [[file:files/pdf/Hack_The_Mainframe.pdf][pdf]]

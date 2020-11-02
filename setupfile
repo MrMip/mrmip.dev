@@ -1,2 +1,2 @@
 # -- mode: org; --
-#+HTML_HEAD: <head> <a href="index.html">Home</a> <a href="projects.html">Projects</a> <a href="contact.html">Contact</a></head>
+#+HTML_HEAD: <head> <a href="index.html">Home</a> <a href="projects.html">Projects</a> <a href="contact.html">Contact</a></head> <a href="files/">Files</a></head>
